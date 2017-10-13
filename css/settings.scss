@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+
+$grey_green: #6b848c;
+$light_green: #1ed6cb;
+
+
+$medium_size: 768px;
+
+
+.wr{
+  max-width: 1400px;
+  margin: 0 auto;
+
+  position: relative;
+}
+
+%flex{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.beruz{
+  color: #1ed6cb;
+}
+
+.activ{
+  color: #1e292f;
+}
+
